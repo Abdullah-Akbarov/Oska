@@ -1,0 +1,151 @@
+body {
+margin: 0px;
+padding: 0px;
+font-family: Verdana, Geneva, sans-serif;;
+}
+
+hr {
+margin: 0px;
+}
+
+#main{
+width: 100%;
+}
+
+#header{
+width: 100px;
+text-align: center;
+}
+
+#main, h2 {
+margin: 0;
+text-align: center;
+}
+#registr {
+width: 100%;
+text-align: center;
+background-color: #F9F9F9;
+
+
+}
+
+#topmenu td{
+width:100%;
+text-align:right;
+}
+
+.divreg{
+border: 1px solid #E0E0E0;
+margin: 5px;
+}
+
+.themename{
+width: 100% auto;
+border: 1px solid #E0E0E0;
+background-color: #f0f0f0;
+
+}
+
+.themename p{
+text-align: center;
+color: #727A90;
+line-height: 0.1;
+font-family: Arial, Verdana, Tahoma;
+font-weight: bold; 
+}
+.rightmenu{
+width: 100% auto;
+border: 1px solid #E0E0E0;
+border-top: none;
+background-color: #fff;
+margin-top: 0;
+text-align: left;
+min-height: 380px;
+padding-top: 10px;
+line-height: 0.3;
+
+}
+
+.menu {
+display: block;
+width: 310px;
+background-color:#fff;
+color:#777;
+font-size: 12px;
+text-decoration: none;
+padding: 15px;
+font-weight: bold;
+border-bottom: 1px dotted #ccc;
+
+}
+.menu:hover {
+display: block;
+width: 318px;
+background-color:#EfEfEf;
+color:#000;
+font-size: 12px;
+text-decoration: none;
+padding: 15px;
+font-weight: bold;
+}
+
+.articles{
+width: 100% auto;
+border: 1px solid #E0E0E0;
+border-top: none;
+background-color: #fff;
+min-height:350px;
+padding: 20px;
+}
+#bottomm{
+width: 100%;
+position:relative;
+margin: 0 auto;
+text-align:left;
+background-color: #F9F9F9;
+}
+#right{
+position: absolute;
+top: 0;
+right: 0;
+width: 350px;
+padding: 5px 5px 15px 5px;
+background-color: transparent;
+
+}
+
+#content{
+background-color: transparent;
+padding: 5px 0px 15px 5px;
+margin: 0 360px 0 0;
+}
+
+#tdaa {border: 1px solid #d0d0d0;}
+#tdab {border-top: 1px solid #d0d0d0; border-bottom: 1px solid #d0d0d0; 
+border-right: 1px solid #d0d0d0;}
+#tdaa, #tdab {color: #666; font-size:14px; 
+font-family: Verdana, Tahoma, Geneva; padding-left: 10px;}
+#tdba, #tdbb {color: #666; font-size:14px; 
+font-family: Verdana, Tahoma, Geneva; padding-left: 10px;}
+#tdba {border-left:1px solid #d0d0d0; border-bottom:1px solid #d0d0d0; 
+border-right:1px solid #d0d0d0;}
+#tdbb {border-right:1px solid #d0d0d0; border-bottom:1px solid #d0d0d0;}
+.voyti{
+text-decoration:none;
+display: block;
+border: 1px solid #888;
+width: 250px;
+background-color: #aaa;
+color:#f5f5f5
+}
+.voyti:hover{
+text-decoration:none;
+display: block;
+border: 1px solid #888;
+width: 250px;
+background-color: #777;
+color:#fff
+}
+.regdiv{
+border:1px solid #E0E0E0;
+margin:5px 5px 0 5px;}

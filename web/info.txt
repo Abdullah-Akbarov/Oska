@@ -1,0 +1,7 @@
+B:
+name db: dbaskmo
+db user: kudrat		
+db password: 1910
+USERS:
+kudrat: 12345
+vohidjon: 2868
